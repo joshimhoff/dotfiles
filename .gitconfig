@@ -1,0 +1,7 @@
+[user]
+	name = Josh Imhoff
+	email = joshimhoff13@gmail.com
+[core]
+	excludesfile = /Users/jlimhoff/.gitignore_global
+[gc]
+	auto = 1
